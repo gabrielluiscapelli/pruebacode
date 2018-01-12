@@ -16,12 +16,12 @@ user_guide_src/cilexer/dist/*
 user_guide_src/cilexer/pycilexer.egg-info/*
 /vendor/
 
-# IDE Filesssssssssss
+# IDE File
 #-------------------------
 /nbproject/
 .idea/*
 
-## Sublime Text cache filesss
+## Sublime Text cache file
 *.tmlanguage.cache
 *.tmPreferences.cache
 *.stTheme.cache
